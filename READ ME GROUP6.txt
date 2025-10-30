@@ -1,0 +1,16 @@
+--Shaker-- 21/9/2025 rptu. 
+To run the model:
+
+1- go to \QSS_TB_Seminar GROUP6\Examples\Seminar >>>> open qss_hybrid_electric_vehicle_S_H.mdl
+
+2- from the path \QSS_TB_Seminar GROUP6\Functions chose the controller function file regarding the drive cycle (ftp_controller1.m or nedc_controller.m)
+ in the controller block.
+
+-----------
+To run optimization:
+1-open QSS_TB_Seminar GROUP6\Examples\Seminar\opt.mlx
+2- press run
+
+
+
+
