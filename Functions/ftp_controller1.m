@@ -3,7 +3,7 @@ function ctl_out = ftp_controller1(input)
 
 %comment by shaker at 31,10,2025 pulled 
 %pulled
-%answer by smaj96 : wet56myv make branch to modify the push!!!
+%answer by smaj96 : wet56myv make branch to modify the push!!! 2nd.
 w_MGB = input(1);            % Angular velocity at torque combiner/gearbox
 dw_MGB = input(2);           %  angular acceleration (rate of change of W_MGB)
 T_MGB = input(3);            % Total torque demand at the gearbox input 
@@ -71,6 +71,7 @@ else
 end
 
 ctl_out = [state_CE, u];
+
 
 
 
