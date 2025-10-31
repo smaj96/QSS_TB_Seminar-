@@ -1,7 +1,8 @@
 function ctl_out = ftp_controller1(input)
 
 
-%comment by shaker at 31,10,2025 
+%comment by shaker at 31,10,2025 pulled 
+%pulled
 w_MGB = input(1);            % Angular velocity at torque combiner/gearbox
 dw_MGB = input(2);           %  angular acceleration (rate of change of W_MGB)
 T_MGB = input(3);            % Total torque demand at the gearbox input 
