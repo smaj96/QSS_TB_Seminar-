@@ -6,7 +6,7 @@ function ctl_out = ftp_controller1(input)
 %answer by smaj96 : wet56myv make branch to modify the push!!! 2nd.
 %wet : ok sir.
 % by Wet, 4,11,2025. i will made some change ( cleaning the code remove not used lines   )
-%this file is valid [Wet 4,11,2025 tukl]
+%this file is valid [Wet 4,11,2025 rptu]
 
 %Input
 w_MGB = input(1);            % Angular velocity at torque combiner/gearbox
