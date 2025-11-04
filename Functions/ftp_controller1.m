@@ -18,7 +18,7 @@ Q_BT = input(4);             % Battery charge[C]
 global w_EM_max;             %  maximum motor angular velocity [rads/s](global) 
 global T_EM_max;             %  maximum motor torque[Nm] (global)
 theta_EM = 0.1;              %  motor rotor inertia[kg.m2]
-eps = 0.01;                  %  small buffer value for numerical robustness
+eps = 0.02;                  %  small buffer value for numerical robustness
 
 Q_min = 3600;        % Minimum allowable battery charge [C] 
 Q_max = 32400;  %15     % Maximum allowable battery charge [C]
